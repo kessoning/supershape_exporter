@@ -21,6 +21,4 @@ https://youtu.be/akM4wMZIBWg
 
 ![alt text](https://raw.githubusercontent.com/KessonDalef/supershape_exporter/master/images/ext_1.png)
 
-![alt text](https://raw.githubusercontent.com/KessonDalef/supershape_exporter/master/images/ext_2.png)
-
 ![alt text](https://raw.githubusercontent.com/KessonDalef/supershape_exporter/master/images/ext_3.png)
